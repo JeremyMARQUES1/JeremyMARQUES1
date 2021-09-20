@@ -24,7 +24,7 @@ I've recently finished a 6-month JavaScript-centric course at École O'clock but
 
 ## 📊 Github Statistics 
 
-[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyMARQUES1&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues,contribs)](https://github.com/JeremyMARQUES1/github-readme-stats)
+[![Jeremy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyMARQUES1&count_private=true&show_icons=true&theme=tokyonight&hide=stars,issues,contribs)]
 
 ## 🌎 Find me elsewhere 
 
