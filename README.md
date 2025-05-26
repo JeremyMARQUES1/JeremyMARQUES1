@@ -1,8 +1,6 @@
 # Hello, folks ! 👋 
 
-My name is Jeremy Marques and I'm a junior web developer living near Orléans, France.
-
-I've recently finished a 6-month JavaScript-centric course at École O'clock but I strive to improve my skills and am constantly willing to learn new things! 😃
+My name is Jeremy Marques and I'm a full stack web developer living near Orléans, France.
 
 ## 💻 Technologies and Tools 
 
@@ -34,9 +32,8 @@ I've recently finished a 6-month JavaScript-centric course at École O'clock but
 
 ## 🌎 Find me elsewhere 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jeremy-marques.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremymarques1) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarquesJrmy6) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://jerem-marques.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremymarques1)
 
 
 
